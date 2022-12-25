@@ -15,6 +15,6 @@ Substitute the values in the distance formula  ![formula](/formula.jpg)
 
 
 ### OUTPUT:
-!['output'](/Screenshot%20from%202022-12-25%2016-26-04.png)
+
 
 ### RESULT:
